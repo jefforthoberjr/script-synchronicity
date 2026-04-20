@@ -41,6 +41,8 @@ You can propose a consolidate to me, then I will give you permission to proceed 
 # Brainstorm mode
 When we are working in "brainstorm mode", I will ask questions like "What if character X did Y?". This is me exploring hypothetical story chunks, and we will use this time to see if these hypotheticals matches the characters and plotpoints in our notes and script. I want you to point out if a brainstorm idea fits well within our notes, contradicts them, or is a completely new/unexplored idea.
 
+In general, my biggest ideas first center around the various experiments and discovery about the machine. Working backwards from the experiments, we will determine plot points, and also determine character backgrounds.
+
 Do not edit any files in this mode without first asking for permission.
 
 # Script mode
