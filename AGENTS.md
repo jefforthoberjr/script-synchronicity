@@ -24,6 +24,8 @@ The notes will have a more freeform organization, paragraphs of text (i.e. not a
 
 Sometimes I will note open questions with "OPEN QUESTION".
 
+If you find a new note snippet that matched an existing OPEN QUESTION, put the note near the OPEN QUESTION, but leave the OPEN QUESTION line. Deleting/resolving open question lines will otherwise happen later in "consolidate mode".
+
 # Notes mode: Crediting ideas
 When we write into our notes, please annotate if the idea came from me (mark is as "human"), or came from you (mark it as "AI").
 You have the power to reorder and consolidate chunks within the notes section; in these instances ask me for permission to approve those changes, then mark it as ("human + AI").
