@@ -155,3 +155,41 @@ Should each extra hole reach out to the next adjacent universe, meaning each exp
 The holes are not meant to be a very clean, clear-cut phenomenon; they're a little messy, like a real-world phenomenon would be. (human)
 
 The extra 2nd and 3rd order holes get smaller and smaller, down to basically microscopic. (human)
+
+# Infinity Math Research
+
+## Supertasks
+
+A supertask is a countably infinite sequence of distinct operations completed within a finite span of time. The core question: is the completed state well-defined, or does it produce a paradox? (AI)
+
+Key examples and thought experiments: (AI)
+
+**Zeno's Dichotomy / Achilles and the Tortoise** — To travel a distance you must first cross half of it, then half of what remains, infinitely. Yet motion clearly happens. Mathematicians resolve it by showing the infinite geometric series ½ + ¼ + ⅛ + … converges to a finite sum (1). The completion of an infinite series of steps is not inherently impossible — it just has to converge. (AI)
+
+**Thomson's Lamp** — A lamp is switched on after 1 min, off after ½ min, on after ¼ min, and so on, completing infinitely many switches in 2 minutes. Question: at the 2-minute mark, is the lamp on or off? Answer: mathematically undefined. The series of switch-states has no convergent limit. This is the canonical example of a supertask whose end-state is indeterminate. (AI)
+
+**Ross–Littlewood Paradox (the vase problem)** — At step 1, place balls 1–10 in a vase and remove ball 1. At step 2, add balls 11–20, remove ball 2. Continue infinitely. How many balls remain? Intuitively seems like infinity (ten net balls added per step). But every individually numbered ball is eventually removed, so the answer is also defensibly zero. The paradox shows that "the limit of the count" and "the count at the limit" can differ. (AI)
+
+**Benardete's Paradox of the Gods** — An infinite series of gods each agree to block a hero's path if the hero reaches a certain midpoint. The hero never moves — blocked at the very start — yet no individual god has actually intervened. Causality seems to require no finite first cause. (AI)
+
+**Relevance to the counting experiments** — The story's "write a number and pass it forward" experiment is structurally a supertask across the multiverse loop. If the number of universes were truly infinite, the paper's final value would be undefined (Thomson's Lamp problem), or the tally marks covering the page to solid graphite is the visual equivalent of a non-converging supertask. The story's choice to use a large but *finite* number of universes is a direct dodge of this supertask paradox — it lets the "end state" of the experiment be well-defined and finite. This is worth making explicit in the story: a character might realize they can confirm the number of universes is finite precisely *because* the paper has a legible (if enormous) answer rather than an undefined one. (AI)
+
+**The Ross–Littlewood angle** — The question of "how many balls are in the vase" maps cleanly onto OPEN QUESTION: after the infinite equilibrium passes through all universes, what state is each universe in? The story's existing answer (a stable equilibrium / self-correcting state) is the equivalent of asserting the vase has a finite, deterministic count — which requires that the process was designed carefully. Characters could invoke this to argue their experiment "has to" produce a clean answer because of how they set it up. (AI)
+
+## Ladder of Infinities (Cantor's Hierarchy)
+
+Georg Cantor (1870s–1880s) proved that not all infinities are equal. There is an infinite ascending staircase of distinct infinite sizes, each strictly larger than the one below. (AI)
+
+**ℵ₀ (aleph-null)** — The "smallest" infinity: the count of natural numbers (1, 2, 3, …), integers, and rational numbers. These are *countably infinite* — you can list them in a sequence that will eventually reach any member. (AI)
+
+**Uncountable infinity** — The real numbers (e.g., all decimals between 0 and 1) are strictly larger than ℵ₀. No matter how you try to list them, Cantor's diagonal argument shows you always miss some. This is a larger size of infinity. (AI)
+
+**Power set always wins** — For any set S, the collection of all subsets of S (its power set) is always strictly larger than S itself. Apply this to an infinite set and you get a larger infinity. Apply it again and you get an even larger one. This is the "ladder": ℵ₀ < ℵ₁ < ℵ₂ < … going up forever, with no top rung. (AI)
+
+**Ordinal infinities** — Beyond cardinal sizes, infinities also have *order*: ω (the first infinite ordinal), ω+1, ω+2, …, ω·2, …, ω², …, ω^ω, …, ε₀, etc. Each is a distinct way of "arranging" an infinite collection. (AI)
+
+**The Continuum Hypothesis** — Cantor conjectured that 2^ℵ₀ (the size of the reals) equals ℵ₁ (the next rung up from ℵ₀), with no infinity in between. This was shown to be *independent* of standard mathematics — both the hypothesis and its negation are consistent. It is formally undecidable. (AI)
+
+**Relevance to the story** — Hilbert's Hotel (already in notes/inspiration) is the pop-science face of ℵ₀. The ladder of infinities adds a layer: even if there are "infinitely many" universes, what *kind* of infinity is it? A countably infinite ring of universes (ℵ₀) is fundamentally different from an uncountably infinite one — and only the countable version can be "counted" by the paper experiment at all. This is another argument for why the story's large-but-finite universe count is the right choice: the counting experiment is only coherent if the total is finite or at most ℵ₀. (AI)
+
+**Connection to OPEN QUESTION (finite vs. infinite universes)** — If the number of universes is truly infinite, which rung of Cantor's ladder is it? A countable infinity (ℵ₀) would mean the counting experiment gives unbounded tally marks with no stopping (like Thomson's Lamp). An uncountable infinity would mean the universes can't even be listed or experimentally indexed. The story's existing position — a large finite number, ~12 billion — elegantly sidesteps both paradoxes and allows the characters to *measure* the count empirically. (AI)
