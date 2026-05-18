@@ -24,6 +24,10 @@ All machines must fire and receive the swap at the same time, with no propagatio
 
 If the machine is transparent, they can catch a glimpse or preview of the image before it fully teleports in. (human)
 
+Internal transfer model: first only low-mass energy leaks through (radiation/photons felt as rising thermal heat), and only after enough buildup does full matter transfer "snap" into completion. This supports showing a paper slowly fading into visibility before it fully appears. (human)
+
+Because the paper can fade in before full transfer, characters can watch values ripple/change in real time and potentially intervene based on the preview, creating causality-intervention moments. (human)
+
 In general, devise a mechanism for communication to propagate forward in time, across multiple universes (and potentially across multiple experiments). (human)
 
 There must be a forward cause-and-effect chain in order for divergence to happen. The cause and effect go "forward" through adjacent universes. (human)
@@ -177,6 +181,8 @@ Key examples and thought experiments: (AI)
 **The Ross–Littlewood angle** — The question of "how many balls are in the vase" maps cleanly onto OPEN QUESTION: after the infinite equilibrium passes through all universes, what state is each universe in? The story's existing answer (a stable equilibrium / self-correcting state) is the equivalent of asserting the vase has a finite, deterministic count — which requires that the process was designed carefully. Characters could invoke this to argue their experiment "has to" produce a clean answer because of how they set it up. (AI)
 
 ## Ladder of Infinities (Cantor's Hierarchy)
+
+Story guardrail: avoid explicit dialogue about named hierarchy levels of infinity (e.g., classifying infinity types on screen). Keep this mostly as background concept pressure, not overt character exposition. (human)
 
 Georg Cantor (1870s–1880s) proved that not all infinities are equal. There is an infinite ascending staircase of distinct infinite sizes, each strictly larger than the one below. (AI)
 
