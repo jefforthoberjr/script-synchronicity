@@ -16,7 +16,7 @@ I will be telling you a bunch of disparate ideas, snippets of characters, potent
 
 As I type in ideas, I want to do determine which file/files the idea goes into. At times, possibly splitting the idea or duplicating it into multiple appropriate files.
 
-Most of our discussions will end up with edits to these files. New ideas should be added as its own chunk. If it has some overlap with an existing chunk, add the new chunk next to it without editing the existing chunk. Consolidating chunks will happen in a different mode; this is more verbatim dictation.
+Most of our discussions will end up with edits to these files. New ideas should be added as its own chunk. If it has some overlap with an existing chunk, add the new chunk next to it without editing the existing chunk. Consolidating chunks will happen in a different mode; this is more verbatim dictation. Minimize adding your own embellishments.
 
 You can add in new chunks without asking me for permission. 
 
